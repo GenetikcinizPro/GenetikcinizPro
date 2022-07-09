@@ -1,5 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+<a href="https://app.daily.dev/GenetikcinizPro"><img src="https://github.com/GenetikcinizPro/GenetikcinizPro/blob/main/devcard.svg" width="200" alt="GenetikcinizPro's Dev Card"/></a>
 
 <p>Welcome to my page! </br> I'm Genetikciniz, from <img src="https://cdn-icons.flaticon.com/png/512/4060/premium/4060553.png?token=exp=1652829614~hmac=b53255060ac5c66bd4e5bdee3134fc7b" width="25"/> <b>Adana, Turkey</b>, currently living in <img src="https://cdn-icons.flaticon.com/png/512/4060/premium/4060553.png?token=exp=1652829614~hmac=b53255060ac5c66bd4e5bdee3134fc7b" width="25"/> <b>Adana, Turkey</b>. </p>
 
