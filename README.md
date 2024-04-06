@@ -1,4 +1,3 @@
-<a align="center" href="https://app.daily.dev/GenetikcinizPro"><img src="https://github.com/GenetikcinizPro/GenetikcinizPro/blob/main/devcard.svg" width="200" alt="GenetikcinizPro's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Canberk Mansuroğlu</h1>
 <h3 align="center">A passionate data science from Turkey</h3>
 
